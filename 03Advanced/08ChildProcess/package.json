@@ -1,0 +1,11 @@
+{
+  "name": "child_process",
+  "version": "1.0.0",
+  "description": "Q.8 What is the difference between spawn(), exec() and fork() in child process?",
+  "main": "spawn.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
